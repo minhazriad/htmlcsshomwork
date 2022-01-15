@@ -1,0 +1,30 @@
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 2px solid gray;
+}
+
+label{
+	font-size: 22px;
+}
+
+.first_name, .last_name, .email, .password{
+	width: 90%;
+	height: 20px;
+	padding: 2px;
+	font-size: 18px;
+}
+
+.date_of_birth{
+	width: 25%;
+	height: 20px;
+	padding: 2px;
+	font-size: 18px;
+}
+button{
+	height: 30px;
+}
+.message{
+	font-size: 18px;
+	padding: 10px;
+}
